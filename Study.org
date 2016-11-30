@@ -1,0 +1,11 @@
+#+TITLE:学习笔记
+* Emacs
+** 资源
+1. emacs基础教程：http://aifreedom.com/technology/112
+2. org mode 基础教程：http://www.fuzihao.org/blog/2015/02/19/org-mode%E6%95%99%E7%A8%8B/
+3. org mode：http://www.cnblogs.com/qlwy/archive/2012/06/15/2551034.html
+4. 21天学会Emacs：https://emacs-china.org/blog/2016-06-12-master-emacs-in-21-days.html
+* JavaScript
+** <2016-11-30 周三>分享 肖师
+1. wiki
+2. 问题
