@@ -1,0 +1,4 @@
+qbi:
+-Xms256m -Xmx1024m -Dworkdir=D:\esendev\workdir\qbi -Dqbiworkdir=D:\esendev\workdir\qbi -Dstartserver.repairdb=false -Duser.timezone=Asia/Shanghai
+bi:
+-Xms256m -Xmx1024m -Dworkdir=D:\esendev\workdir\ebi -Dbiworkdir=D:\esendev\workdir\ebi -Dstartserver.repairdb=false -Duser.timezone=Asia/Shanghai
